@@ -1,0 +1,14 @@
+body{
+    background: url("./background1.jpg");
+    background-repeat: n0-repeat;
+    background-size:cover;
+}
+.main{
+    text-align: center;
+    margin: auto;
+    margin-top: 15%;
+    background-color: whitesmoke ;
+    height: 350px;
+    width: 700px;
+    padding-top: 3%;
+}
